@@ -1,0 +1,38 @@
+{
+  "name": "beside-popover",
+  "version": "0.0.1",
+  "description": "beside-popover",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forsigner/beside-popover.git"
+  },
+  "keywords": [
+    "popover",
+    "popover"
+  ],
+  "author": "forsigner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forsigner/beside-popover/issues"
+  },
+  "homepage": "https://github.com/forsigner/beside-popover#readme",
+  "devDependencies": {
+    "babel-eslint": "^4.1.6",
+    "babel-preset-es2015": "^6.3.13",
+    "babelify": "^7.2.0",
+    "browserify": "^13.0.0",
+    "eslint": "^1.10.3",
+    "gulp": "^3.9.0",
+    "gulp-cssnano": "^2.1.0",
+    "gulp-less": "^3.0.5",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace-name": "^1.0.1",
+    "gulp-streamify": "^1.0.2",
+    "gulp-uglify": "^1.5.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

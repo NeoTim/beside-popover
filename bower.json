@@ -1,0 +1,17 @@
+{
+  "name": "beside-popover",
+  "version": "0.0.1",
+  "homepage": "https://github.com/forsigner/beside-popover",
+  "authors": [
+    "forsigner <forsigner@gmail.com>"
+  ],
+  "description": "popover",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
